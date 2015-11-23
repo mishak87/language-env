@@ -1,0 +1,16 @@
+{
+  "name": "language-env",
+  "main": "./lib/language-env",
+  "version": "0.1.0",
+  "description": "Simple highlighting for files with environment variables",
+  "keywords": [
+      "environment", "variables", "env"
+  ],
+  "repository": "https://github.com/mishak87/language-env",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
